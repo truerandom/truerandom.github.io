@@ -17,7 +17,10 @@
 			t3.setHeight("180px")
 			t3.setWidth('550px')
 			t3.setBackgroundColor('black')
-			document.body.appendChild(t3.html)
+			t3.setTextColor('green')
+			//document.body.appendChild(t3.html)
+			var divl = document.getElementById("<main_content")
+			divl.appendChild(t3.html);
 			t3.password('Enter password ', function (password) {
 				t3.print('Wrong password ')
 			})
