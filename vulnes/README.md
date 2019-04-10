@@ -33,3 +33,7 @@ Desarrollar una prueba de concepto utilizando algún programa de la carrera o al
 **Nota**: Los documentos deben contener las siguientes secciones: Objetivos, Introducción, Resumen ejecutivo, Desarrollo y Conclusiones. La conclusión debe tener una extensión mínima de media cuartilla.
 
 **Nota**: Se recomienda explotarlo dentro de `gdb` para evitar contratiempos.
+
+### Reverse shell
+
+Generar un *reverse shell* codificado con `msfvenom`. Subir archivo ejecutable a `Virus Total` y observar cuántos motores lo detectaron como malicioso. Documentar pasos seguidos, incluir el ejecutable comprimido, así como una captura de pantalla de la búsqueda en `Virus Total`. 
