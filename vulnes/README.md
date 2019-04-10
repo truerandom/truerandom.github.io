@@ -36,4 +36,4 @@ Desarrollar una prueba de concepto utilizando algún programa de la carrera o al
 
 ### Reverse shell
 
-Generar un *reverse shell* y codificarlo con `msfvenom`. Subir ambos archivos ejecutables a `Virus Total` y comparar cuántos motores los detectan como malicioso. Documentar pasos seguidos, incluir los ejecutables comprimidos, así como capturas de pantalla de las búsquedas en `Virus Total`. 
+Generar un *reverse shell* y codificarlo con `msfvenom`. Subir ambos archivos ejecutables a `Virus Total` y comparar cuántos motores los detectan como maliciosos. Documentar pasos seguidos, incluir los ejecutables comprimidos, así como capturas de pantalla de las búsquedas en `Virus Total`. 
