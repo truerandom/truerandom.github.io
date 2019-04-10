@@ -30,6 +30,6 @@ Elaborar una tabla comparativa con las funciones vulnerables a *buffer overflow*
 
 Desarrollar una prueba de concepto utilizando algún programa de la carrera o alguna herramienta encontrada en internet, la vulnerabilidad tiene que haber sido reportada como mínimo en 2016.
 
-**Nota**: Los documentos deben contener las siguientes secciones: Objetivos, Introducción, Resumen ejecutivo, desarrollo y conclusiones. La conclusión debe tener una extensión mínima de media cuartilla.
+**Nota**: Los documentos deben contener las siguientes secciones: Objetivos, Introducción, Resumen ejecutivo, Desarrollo y Conclusiones. La conclusión debe tener una extensión mínima de media cuartilla.
 
 **Nota**: Se recomienda explotarlo dentro de `gdb` para evitar contratiempos.
